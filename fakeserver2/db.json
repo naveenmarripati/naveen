@@ -1,0 +1,28 @@
+{
+  "ContactsDetails": [
+    {
+      "id": "7c04",
+      "cname": "Naveen  Marripati",
+      "cno": "07330710253",
+      "cemail": "hii@123"
+    },
+    {
+      "id": "ff55",
+      "cname": "M. Naveen",
+      "cemail": "sdfgh@12",
+      "cno": "07330710253"
+    },
+    {
+      "id": "8940",
+      "cname": "",
+      "cemail": "",
+      "cno": ""
+    },
+    {
+      "id": "ba10",
+      "cname": "",
+      "cemail": "",
+      "cno": ""
+    }
+  ]
+}

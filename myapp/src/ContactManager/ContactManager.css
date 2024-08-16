@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container{
+    padding: 30px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.from-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 4px 16px 0px;
+    width: 25%;
+}
+.label1{
+    padding-right: 25px;
+}
+.label2{
+    padding-right: 38px;
+}
+.label3{
+    padding-right: 10px;
+}
+.button{
+    border-radius: 6px;
+    border-width: 0px;
+    background-color: rgb(1, 1, 65);
+    color:white;
+    height: 40px;
+    margin-top: 10px;
+}
+.img-container{
+    margin-left: 30px;
+}
+
+.head-Contianer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color:white;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(38, 29, 46);
+    width:220px;
+    height: 40px;
+    border-radius: 7px;
+}
+.details-Container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.details{
+    box-shadow: 0px 4px 16px 0px;
+    background-color: rgb(74, 74, 44);
+    height: auto;
+    width: 260px;
+    border-radius: 7px;
+    padding:20px;
+    margin: 10px;
+    
+}
+
+.heading2{
+    color:white;
+    font-size: 18px;
+}
+.num{
+    color:white;
+    font-size: 15px;
+}
+.email{
+    color:white;
+    font-size: 15px;
+}
+.deletebutton{
+    border-width: 0px;
+    border-radius: 5px;
+    
+}
+.updatebutton{
+    border-width: 0px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
